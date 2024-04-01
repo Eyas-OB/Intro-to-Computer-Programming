@@ -1,7 +1,5 @@
 # Intro-to-Computer-Programming
-These are my intro to computer programming assignments with notes 
-
-**I will be uploading 2 versions of each peogram one that contains notes and another that will contain the code only**
+These are my intro to computer programming assignments 
 
 Program 1 video: 
 
